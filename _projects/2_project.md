@@ -13,10 +13,7 @@ MUTYH is a clinically important DNA glycosylase that thwarts mutations by initia
 
 <div class="row">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager"
-           path="assets/img/MUTYH1.png"
-           title="MUTYH structural model"
-           class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid loading="eager" path="assets/img/MUTYH1.png" title="MUTYH structural model" class="img-fluid rounded z-depth-1" %}
 </div>
 
     <div class="col-md-6 mt-3 mt-md-0">
