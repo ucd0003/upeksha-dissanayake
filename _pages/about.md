@@ -28,9 +28,10 @@ latest_posts:
 ---
 
 
-I am a Ph.D. candidate focusing on the investigation of the effects of various factors (mutations, drugs) on the structure, dynamics, and kinetics of biological systems (mainly enzymes) using the following tools.
- * Molecular Dynamics (MD) simulations using polarizable and non-polarizable force fields (eg: AMBER, GROMACS and AMOEBA).
- * Hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) calculations for enzyme reaction mechanisms (Layered Interacting Chemical Model (LICHEM))
- * Discovery and characterization of cancer biomarkers (Hypothesis Driven Single Nucleotide Polymorphism search (HyDn-SNP-S))
- * AI-based molecular generation tools to design and optimize small molecules targeting disease-related proteins and integrate ADMET prediction platforms with docking and MD workflows, executing end-to-end drug discovery pipelines.
- * Python, Bash scripting, Machine Learning
+I’m a computational chemist specializing in molecular dynamics, QM/MM modeling, and AI-driven drug discovery. My work focuses on understanding how mutations and small molecules regulate the structure, dynamics, and function of enzymes involved in DNA repair and cancer-related pathways.
+
+My expertise spans molecular dynamics (MD), hybrid QM/MM methods, and mechanistic modeling of enzyme catalysis, with applications to mutational effects, allosteric communication, and reaction mechanisms. I have led and contributed to multiple interdisciplinary projects involving enhanced sampling, free energy calculations, and large-scale simulations of biologically and therapeutically relevant systems.
+
+I also have strong hands-on experience in AI-assisted molecular design and computer-aided drug discovery, where I built end-to-end pipelines integrating molecular generation, docking, molecular dynamics, and ADMET/property prediction to prioritize therapeutic candidates.
+
+Skilled in high-performance computing (HPC) environments, I develop and automate scalable workflows using Python and Bash to accelerate molecular discovery, data analysis, and machine-learning–enabled research.
