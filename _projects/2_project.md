@@ -2,7 +2,7 @@
 layout: page
 title: Effect of Cancer Mutations on DNA Glycosylase (MUTYH)
 #description: a project with a background image and giscus comments
-img: assets/img/MUTYH1.jpg
+img: assets/img/MUTYH1.png
 importance: 2
 category: work
 giscus_comments: true
