@@ -39,7 +39,8 @@
       "endDate": "Present",
       "summary": "I conduct research in computational chemistry, applying molecular dynamics simulations and quantum mechanical (QM/MM) methods to investigate enzyme mechanisms and mutation-driven structural changes at the atomic level. My work integrates free-energy calculations, bioinformatics analysis, and machine learning to understand disease-associated mutations and biomolecular function. This research has strengthened my expertise in physics-based modeling, high-performance computing, and data-driven analysis of complex biological systems.",
       "highlights": []
-    },{
+    },
+    {
       "name": "University of Texas at Dallas",
       "position": "Graduate Teaching Assistant",
       "url": "https://unt.edu/",
@@ -56,7 +57,7 @@
       "summary": ""
     }
   ],
-  
+
   "education": [
     {
       "institution": "University of Texas at Dallas",
@@ -118,25 +119,11 @@
   "skills": [
     {
       "name": "Protein Design & Generative Models",
-      "keywords": [
-        "Machine learning-based predictive models such as AlphaFold",
-        "Rosetta",
-        "ESMFold",
-        "ProteinMPNN",
-        "ColabFold",
-        "OmegaFold"
-      ]
+      "keywords": ["Machine learning-based predictive models such as AlphaFold", "Rosetta", "ESMFold", "ProteinMPNN", "ColabFold", "OmegaFold"]
     },
     {
       "name": "Molecular Dynamics (MD)",
-      "keywords": [
-        "GROMACS",   
-        "AMBER",
-        "NAMD",
-        "CHARMM",
-        "OpenMM",
-        "TINKER; enhanced sampling, free energy calculations (FEP, TI, MBAR), MM/GB(PB)SA"
-      ]
+      "keywords": ["GROMACS", "AMBER", "NAMD", "CHARMM", "OpenMM", "TINKER; enhanced sampling, free energy calculations (FEP, TI, MBAR), MM/GB(PB)SA"]
     },
     {
       "name": "Quantum Mechanics (QM) & QM/MM",
@@ -172,15 +159,11 @@
     },
     {
       "name": "Structural Analysis & Visualization",
-      "keywords": [
-        "VMD, PyMOL, UCSF Chimera, COOT, MDAnalysis, MDTraj, Open Babel, ChemDraw, GaussView, Avogadro, HyperChem, AIM, MultiWFN"
-      ]
+      "keywords": ["VMD, PyMOL, UCSF Chimera, COOT, MDAnalysis, MDTraj, Open Babel, ChemDraw, GaussView, Avogadro, HyperChem, AIM, MultiWFN"]
     },
     {
       "name": "Cancer Genome-Wide Association Study (GWAS): ",
-      "keywords": [
-        "logistic regression, haplotype analysis, Linkage Disequilibrium (LD) mapping, and SNP association modeling using PLINK"
-      ]
+      "keywords": ["logistic regression, haplotype analysis, Linkage Disequilibrium (LD) mapping, and SNP association modeling using PLINK"]
     }
   ],
   "certificates": [
@@ -212,7 +195,7 @@
       "url": "https://coursera.org/verify/5R8KHYYEKSHQ",
       "icon": "fa-solid fa-location-dot"
     },
-     {
+    {
       "name": "International workshop on Genome Informatics",
       "date": "July 2023",
       "issuer": "Decode Life and Ensembl Outreach Team",

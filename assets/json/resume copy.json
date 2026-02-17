@@ -49,7 +49,7 @@
       "summary": ""
     }
   ],
-  
+
   "education": [
     {
       "institution": "University of Texas at Dallas",
@@ -111,25 +111,11 @@
   "skills": [
     {
       "name": "Protein Design & Generative Models",
-      "keywords": [
-        "AlphaFold",
-        "Rosetta",
-        "ESMFold",
-        "ProteinMPNN",
-        "ColabFold",
-        "OmegaFold"
-      ]
+      "keywords": ["AlphaFold", "Rosetta", "ESMFold", "ProteinMPNN", "ColabFold", "OmegaFold"]
     },
     {
       "name": "Molecular Dynamics (MD)",
-      "keywords": [
-        "GROMACS",   
-        "AMBER",
-        "NAMD",
-        "CHARMM",
-        "OpenMM",
-        "TINKER; enhanced sampling, free energy calculations (FEP, TI, MBAR), MM/GB(PB)SA"
-      ]
+      "keywords": ["GROMACS", "AMBER", "NAMD", "CHARMM", "OpenMM", "TINKER; enhanced sampling, free energy calculations (FEP, TI, MBAR), MM/GB(PB)SA"]
     },
     {
       "name": "Quantum Mechanics (QM) & QM/MM",
@@ -144,7 +130,7 @@
     {
       "name": "Docking & AI-Driven Drug Discovery",
       "keywords": [
-        "AutoDock Vina", 
+        "AutoDock Vina",
         "Schrödinger Glide",
         "MOE",
         "AI-based frameworks (PocketFlow, MolMIM, DiffDock, and Boltz-2)",
@@ -160,15 +146,11 @@
     },
     {
       "name": "Programming & Data Analysis",
-      "keywords": [
-        "Python, PyTorch, R, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, RDKit, UNIX/Linux shell scripting, workflow automation"
-      ]
+      "keywords": ["Python, PyTorch, R, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, RDKit, UNIX/Linux shell scripting, workflow automation"]
     },
     {
       "name": "Structural Analysis & Visualization",
-      "keywords": [
-        "VMD, PyMOL, UCSF Chimera, COOT, MDAnalysis, MDTraj, Open Babel, ChemDraw, GaussView, Avogadro, HyperChem, AIM, MultiWFN"
-      ]
+      "keywords": ["VMD, PyMOL, UCSF Chimera, COOT, MDAnalysis, MDTraj, Open Babel, ChemDraw, GaussView, Avogadro, HyperChem, AIM, MultiWFN"]
     },
     {
       "name": "Cancer Genome-Wide Association Study (GWAS): ",
@@ -178,7 +160,7 @@
     }
   ],
   "certificates": [
-     {
+    {
       "name": "Python Scripting for Molecular Docking",
       "date": "July 18 2024",
       "issuer": "RCSB Protein Data Bank and Rutgers Institute for Quantitative Biomedicine",
@@ -192,7 +174,7 @@
       "url": "https://coursera.org/verify/5R8KHYYEKSHQ",
       "icon": "fa-solid fa-location-dot"
     },
-     {
+    {
       "name": "International workshop on Genome Informatics",
       "date": "June 17 - 15 July 2023",
       "issuer": "Decode Life and Ensembl Outreach Team",

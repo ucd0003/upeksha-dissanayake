@@ -10,7 +10,6 @@ giscus_comments: true
 
 MUTYH is a clinically important DNA glycosylase that thwarts mutations by initiating base-excision repair at 8-oxoguanine (OG):A lesions. The roles for its [4Fe-4S] cofactor in DNA repair remain enigmatic. Functional profiling of cancer-associated variants near the [4Fe-4S] cofactor reveals that most variations abrogate both retention of the cofactor and enzyme activity. Surprisingly, R241Q and N238S retained the metal cluster and bound substrate DNA tightly, but were completely inactive. We determine the crystal structure of human MUTYH bound to a transition state mimic and this shows that Arg241 and Asn238 build an H-bond network connecting the [4Fe-4S] cluster to the catalytic Asp236 that mediates base excision. The structure of the bacterial MutY variant R149Q, along with molecular dynamics simulations of the human enzyme, support a model in which the cofactor functions to position and activate the catalytic Asp. These results suggest that allosteric cross-talk between the DNA binding [4Fe-4S] cofactor and the base excision site of MUTYH regulate its DNA repair function.
 
-
 <div class="row">
     <div class="col-md-6 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/MUTYH1.png" title="MUTYH structural model" class="img-fluid rounded z-depth-1" %}
@@ -22,6 +21,7 @@ MUTYH is a clinically important DNA glycosylase that thwarts mutations by initia
            title="Active site interaction analysis"
            class="img-fluid rounded z-depth-1" %}
     </div>
+
 </div>
   <div class="caption">
     Structural representation of human MUTYH bound to DNA, highlighting the active site pocket and key catalytic residues. The [4Fe–4S] cluster and Zn ion are shown as cofactors. Cancer mutations are R241Q and N238S
@@ -51,6 +51,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.

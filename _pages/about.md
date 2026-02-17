@@ -9,9 +9,9 @@ profile:
   image: picture.jpg
   image_circular: true # crops the image to make it circular
   #more_info: >
-   # <p>555 your office number</p>
-   # <p>123 your address street</p>
-   # <p>Your City, State 12345</p>
+  # <p>555 your office number</p>
+  # <p>123 your address street</p>
+  # <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +26,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 
 I’m a computational chemist specializing in molecular dynamics, QM/MM modeling, and AI-driven drug discovery. My work focuses on understanding how mutations and small molecules regulate the structure, dynamics, and function of enzymes involved in DNA repair and cancer-related pathways.
 
