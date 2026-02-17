@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A collection of computational chemistry, molecular modeling, and AI-driven research projects, highlighting my work across enzyme mechanisms, molecular simulations, and data-driven drug discovery.
-nav: true
+nav: false
 nav_order: 2
 #display_categories: [work, fun]
 horizontal: false
