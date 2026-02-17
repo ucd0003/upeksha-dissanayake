@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/upeksha-dissanayake/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A collection of computational chemistry, molecular modeling, and AI-driven research projects, highlighting my work across enzyme mechanisms, molecular simulations, and data-driven drug discovery.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/upeksha-dissanayake/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/upeksha-dissanayake/repositories/";
-          },
         },{id: "nav-resume",
           title: "Resume",
           description: "",
